@@ -5,4 +5,5 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 ##Git
 * [A better git diff](git/diff-so-fancy.md)
+* [Change a commit timestamp](git/change-commit-timestamp.md)
 
