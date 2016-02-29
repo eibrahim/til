@@ -4,7 +4,7 @@
 
 or to use the current time
 
-`git commit --amend --date="now"
+`git commit --amend --date="now"`
 
 tip: you can get the timestamp by simply running `date` in the console
 
