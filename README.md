@@ -7,9 +7,9 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 * [A better git diff](git/diff-so-fancy.md)
 * [Change a commit timestamp](git/change-commit-timestamp.md)
 
-#Vim
+##Vim
 * [Resize vertical split](vim/resize-split.md)
 
-#Ember JS
+##Ember JS
 * [Handle permission errors](ember/no-auth-permission.md)
 
