@@ -13,3 +13,6 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ##Ember JS
 * [Handle permission errors](ember/no-auth-permission.md)
 
+##Terminal
+* [grep recursively](terminal/grep-recursively.md)
+

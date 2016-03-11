@@ -15,4 +15,6 @@
     },
 ```
 
+Obviously, this only works if your API is sending back a status code of 403 for permission-related errors.
+
 
