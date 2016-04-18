@@ -16,3 +16,5 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ##Terminal
 * [grep recursively](terminal/grep-recursively.md)
 
+##Powershell
+* [delete folder recursively](powershell/delete-folder-recursively.md)
