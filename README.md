@@ -12,9 +12,12 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 ##Ember JS
 * [Handle permission errors](ember/no-auth-permission.md)
+* [Create an Addon](ember/create-addon.md)
+* [Deploy to Dreamhost using SSH & rsync](ember/deploy-dreamhost.md)
 
 ##Terminal
 * [grep recursively](terminal/grep-recursively.md)
+* [copy recursively](terminal/copy-directory.md)
 
 ##Powershell
 * [delete folder recursively](powershell/delete-folder-recursively.md)
