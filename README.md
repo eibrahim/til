@@ -18,6 +18,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ##Terminal
 * [grep recursively](terminal/grep-recursively.md)
 * [copy recursively](terminal/copy-directory.md)
+* [find file recursively and exclude a folder](terminal/find-file-recursively.md)
 
 ##Powershell
 * [delete folder recursively](powershell/delete-folder-recursively.md)
