@@ -14,6 +14,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 * [Handle permission errors](ember/no-auth-permission.md)
 * [Create an Addon](ember/create-addon.md)
 * [Deploy to Dreamhost using SSH & rsync](ember/deploy-dreamhost.md)
+* [Save Children in HasMany](ember/save-children-with-parent.md)
 
 ##Terminal
 * [grep recursively](terminal/grep-recursively.md)
